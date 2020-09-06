@@ -2,16 +2,42 @@
 
 This is a product cms which user can perform CRUD on product content.
 
-The UI starter code is forked from this repo
-https://github.com/jspruance/hexal-serverless-starter
+demo website:
+http://alanyeung.aws.com.s3-website.us-east-2.amazonaws.com/
 
-And I follow this video to learn aws serverless
-https://www.youtube.com/watch?v=VGerk8hrP9U
+## Skill Stacking used in this project
 
-# Usage
+- React.Js
+- AWS API Gateway
+- AWS Lambda Function & Serverless Computing
+- Amazon DynamoDB
+- AWS S3 bucket & Static Website Hosting
+
+# Development
 
 start server
 
 ```
 npm start
 ```
+
+build project for uploading the static assets to s3 bucket
+
+```
+npm build
+```
+
+# Credit
+
+The UI starter code is forked from this repo
+https://github.com/jspruance/hexal-serverless-starter
+
+And I follow these videos to learn aws serverless
+
+https://www.youtube.com/watch?v=VGerk8hrP9U
+
+https://www.youtube.com/watch?v=xJvfcg9dW4U&t=488s
+
+https://www.youtube.com/watch?v=xJvfcg9dW4U
+
+https://www.youtube.com/watch?v=P_B79xXf-w8
