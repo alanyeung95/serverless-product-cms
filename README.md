@@ -26,6 +26,11 @@ alanyeung.aws.com.s3-website.us-east-2.amazonaws.com/
 ### Update product & Delete product
 <img src="./doc/update_product.png" alt="drawing" width="500"/>
 
+# Todo list:
+
+- [ ] User management
+- [ ] Migrate this project from Github to AWS CodeCommit or Deploy code from github to lambda
+
 # Development
 
 start server
