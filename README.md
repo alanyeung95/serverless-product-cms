@@ -3,7 +3,7 @@
 This is a product cms which user can perform CRUD on product content.
 
 demo website:
-http://alanyeung.aws.com.s3-website.us-east-2.amazonaws.com/
+alanyeung.aws.com.s3-website.us-east-2.amazonaws.com/
 
 ## Skill Stacking used in this project
 
