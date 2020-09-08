@@ -27,6 +27,19 @@ build project for uploading the static assets to s3 bucket
 npm build
 ```
 
+
+## DynamoDB config
+### Identify dynamodb manual actions
+1. getItem
+2. putItem
+3. updateItem
+4. deleteItem
+
+### Add Amazon Resource Name (ARN)
+```
+Amazon Resource Name (ARN)	arn:aws:dynamodb:us-east-2:719537100027:table/Products
+```
+
 # Credit
 
 The UI starter code is forked from this repo
