@@ -3,7 +3,7 @@
 This is a product cms which user can perform CRUD on product content.
 
 demo website:
-alanyeung.aws.com.s3-website.us-east-2.amazonaws.com/
+http://alanyeung.aws.com.s3-website.us-east-2.amazonaws.com/
 
 ## Skill Stacking used in this project
 
@@ -12,6 +12,24 @@ alanyeung.aws.com.s3-website.us-east-2.amazonaws.com/
 - AWS Lambda Function & Serverless Computing
 - Amazon DynamoDB
 - AWS S3 bucket & Static Website Hosting
+
+## Demo Screencap
+### Home page
+<img src="./doc/home.png" alt="drawing" width="500"/>
+
+### List product
+<img src="./doc/list_product.png" alt="drawing" width="500"/>
+
+### Create product
+<img src="./doc/create_product.png" alt="drawing" width="500"/>
+
+### Update product & Delete product
+<img src="./doc/update_product.png" alt="drawing" width="500"/>
+
+# Todo list:
+
+- [ ] User management
+- [ ] Migrate this project from Github to AWS CodeCommit or Deploy code from github to lambda
 
 # Development
 
